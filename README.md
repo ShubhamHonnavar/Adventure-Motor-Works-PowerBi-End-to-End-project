@@ -1,3 +1,17 @@
-# Adventure-Motor-Works-PowerBi-End-to-End-project
-This is a PowerBI end to end project based on retail Domain
-Here Adventure Motor Works is a retail shop for bikes,clothing,accessories and other consumables for sports   
+# Adventure Motor Works - Retail Domain
+
+## Overview
+Adventure Motor Works is a Power BI project focused on the retail domain. It analyzes sales performance, customer trends, and inventory management using dynamic dashboards.
+
+## Features
+- **Sales Analysis**: Tracks revenue trends and top-performing products.
+- **Customer Insights**: Identifies purchasing behavior and demographics.
+
+
+## Technologies Used
+- Microsoft Power BI
+- DAX & Power Query
+- SQL for data processing
+
+
+
